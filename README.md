@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Hey, I'm Koushik Sagar 🌟</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%7C+Svelte+%7C+DSA+Explorer;Turning+ideas+into+reality+through+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;DevOps+Engineer+%7C+DSA+%7C+UI%2FUX+Designer;Turning+ideas+into+reality+through+code" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 I'm a 20-year-old passionate developer focused on building responsive, high-performance web apps with a clean and modern UI/UX.
 
 - 🌱 Currently diving deeper into **Next.js**, **backend with Node.js**, **DevOps practices**, and **DSA with Java**
-- ⚙️ Actively exploring **Svelte** and building **real-time dashboards**, **chat apps**, and **automation pipelines**
+- ⚙️ Actively exploring **Svelte** and building **real-time dashboards**, **apps**, and **automation pipelines**
 - 🔧 Strong foundation in **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, and **Firebase**
 - 🧪 Working on an **Automated Software Deployment System** with **Jenkins**, **Docker**, and **WebSockets**
 - 📅 Also building a **scheduling/calendar app** using **TypeScript** and **Svelte**
@@ -50,11 +50,10 @@ I'm a 20-year-old passionate developer focused on building responsive, high-perf
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushiksagar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushiksagar&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github.com/koushiksagar/koushiksagar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
