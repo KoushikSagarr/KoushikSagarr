@@ -50,38 +50,6 @@ I'm a 20-year-old passionate developer focused on building responsive, high-perf
 
 ---
 
-## 💻 Developer Terminal
-
-<pre>
-<code>
-> Initializing personal workspace...
-> Authenticating as @koushiksagar...
-✔ Authentication successful
-
-> Connecting to DevOps Server...
-✔ Connection established
-
-> Pulling latest builds and logs...
-✔ Jenkins pipelines synced
-✔ Docker containers running
-
-> Starting frontend interface...
-✔ Next.js and Svelte environments initialized
-
-> UI/UX Engine loaded...
-✔ Tailwind CSS detected
-✔ Animations applied
-
-> Compiling code...
-✔ Build complete with 0 errors 🚀
-
-> Welcome to Koushik Sagar's Dev Terminal ✨
-> Ready to deploy greatness.
-</code>
-</pre>
-
----
-
 ## 🌍 Let's Connect
 
 - 🌐 Portfolio: [koushiksagar.framer.website](https://koushiksagar.framer.website/)
