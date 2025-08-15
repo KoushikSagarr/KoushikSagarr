@@ -13,7 +13,7 @@ I'm a 20-year-old passionate developer focused on building responsive, high-perf
 - ⚙️ Actively exploring **Svelte** and building **real-time dashboards**, **apps**, and **automation pipelines**
 - 🔧 Strong foundation in **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, and **Firebase**
 - 🧪 Working on an **Automated Software Deployment System** with **Jenkins**, **Docker**, and **WebSockets**
-- 📅 Also building a **scheduling/calendar app** using **TypeScript** and **Svelte**
+- 📅 Also building a **fitness tracker app** using **TypeScript** and **vite**
 - ⚡ Open to collaborating on exciting full-stack, DevOps, and real-time apps
 - 🎯 Constantly learning and improving through real-world projects and challenges
 
@@ -43,8 +43,7 @@ I'm a 20-year-old passionate developer focused on building responsive, high-perf
 ## 🚀 Projects
 
 - 🔄 **Automated Software Deployment System** – CI/CD tool with Jenkins, Docker, and real-time logs via WebSockets
-- 📆 **Calendar/Schedule Builder App** – Frontend in Svelte + TypeScript with interactive APIs
-- 💬 **Real-Time Chat App** – React Native + Node.js backend using Socket.IO
+- 📆 **Fitness Tracker App** – Frontend in Vite + React with interactive APIs
 - 💸 **Expense Tracker System** – Smart personal finance app with daily limits and monthly analysis
 - 🧑‍🏫 **Student Feedback Management System** – Full-stack JFSD project for feedback analytics and reporting
 
