@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 20-year-old passionate developer focused on building responsive, high-performance web apps with a clean and modern UI/UX.
+I'm a 21-year-old passionate developer focused on building responsive, high-performance web apps with a clean and modern UI/UX.
 
 - 🌱 Currently diving deeper into **Next.js**, **backend with Node.js**, **DevOps practices**, and **DSA with Java**
 - ⚙️ Actively exploring **Svelte** and building **real-time dashboards**, **apps**, and **automation pipelines**
